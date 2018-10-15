@@ -1,0 +1,9 @@
+/home/cnha/dev/CustomerPortalPrototype/CustomerPortalPrototype.Domain/bin/Debug/netstandard2.0/CustomerPortalPrototype.Domain.deps.json
+/home/cnha/dev/CustomerPortalPrototype/CustomerPortalPrototype.Domain/bin/Debug/netstandard2.0/CustomerPortalPrototype.Domain.dll
+/home/cnha/dev/CustomerPortalPrototype/CustomerPortalPrototype.Domain/bin/Debug/netstandard2.0/CustomerPortalPrototype.Domain.pdb
+/home/cnha/dev/CustomerPortalPrototype/CustomerPortalPrototype.Domain/obj/Debug/netstandard2.0/CustomerPortalPrototype.Domain.csprojAssemblyReference.cache
+/home/cnha/dev/CustomerPortalPrototype/CustomerPortalPrototype.Domain/obj/Debug/netstandard2.0/CustomerPortalPrototype.Domain.csproj.CoreCompileInputs.cache
+/home/cnha/dev/CustomerPortalPrototype/CustomerPortalPrototype.Domain/obj/Debug/netstandard2.0/CustomerPortalPrototype.Domain.AssemblyInfoInputs.cache
+/home/cnha/dev/CustomerPortalPrototype/CustomerPortalPrototype.Domain/obj/Debug/netstandard2.0/CustomerPortalPrototype.Domain.AssemblyInfo.cs
+/home/cnha/dev/CustomerPortalPrototype/CustomerPortalPrototype.Domain/obj/Debug/netstandard2.0/CustomerPortalPrototype.Domain.dll
+/home/cnha/dev/CustomerPortalPrototype/CustomerPortalPrototype.Domain/obj/Debug/netstandard2.0/CustomerPortalPrototype.Domain.pdb
