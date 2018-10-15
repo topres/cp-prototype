@@ -11,6 +11,7 @@ namespace CustomerPortalPrototype.Domain.RobotRegistration
                 new RegistrationModel(Guid.NewGuid(), "assembly robot"),
                 new RegistrationModel(Guid.NewGuid(), "palletizing robot"),
                 new RegistrationModel(Guid.NewGuid(), "new test"),
+                new RegistrationModel(Guid.NewGuid(), "new test 2"),
             };
         }
     }
